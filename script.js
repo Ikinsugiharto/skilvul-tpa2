@@ -1,3 +1,5 @@
+//javascript logic
+
 const form = document.querySelector('form');
 const calculateBtn = document.querySelector('#calculateBtn');
 const resultDiv = document.querySelector('#result');

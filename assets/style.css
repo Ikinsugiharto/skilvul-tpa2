@@ -82,6 +82,17 @@ p {
     color: var(--text-color);
 }
 
+/* styling footer */
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #f5f5f5;
+    color: #666;
+    text-align: center;
+    padding: 10px;
+ }
+ 
 /* Breakpoint Media Query */
 @media screen and (max-width: 850px) {
     h1 {
